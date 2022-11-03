@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C++ and Python
 - 🔭 Studying IT at PTIT
 - 📫 How to reach me: lordierclaw@gmail.com
-- 🖥️ CF: [https://codeforces.com/profile/Team6_NamHai](https://codeforces.com/profile/Team6_NamHai)
+- 🖥️ ICPC ID: [https://icpc.global/ICPCID/42NL2BJKLSUL](https://icpc.global/ICPCID/42NL2BJKLSUL)
